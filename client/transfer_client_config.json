@@ -1,0 +1,5 @@
+{
+  "serverIP": "localhost",
+  "serverPort": 12000,
+  "dataFile": "data.txt"
+}
